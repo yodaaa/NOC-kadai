@@ -2,7 +2,7 @@
 
 ### 具体的なアイディア
 インスタグラムのストーリーズのような
-![img_2564](https://user-images.githubusercontent.com/13346021/46918272-25ab4880-d00b-11e8-9086-f47c56e49714.PNG)
+![img_2564](https://user-images.githubusercontent.com/13346021/46918296-89357600-d00b-11e8-88e3-859786ddf6bb.PNG)
 ![img_2565](https://user-images.githubusercontent.com/13346021/46918275-2b089300-d00b-11e8-8d1a-9a65e07ba74f.jpeg)
 
 ### そのライブラリはどのような問題を解決しようとしているか
